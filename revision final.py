@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 # === CONFIGURACIÓN ===
-pico_ip = "192.168.1.83"
+pico_ip = "xxx.xxx.x.xx"
 zona_muerta = 0.5
 umbral_mov = 0.7
 ultimo_comando = None
